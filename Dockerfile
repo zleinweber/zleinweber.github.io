@@ -1,0 +1,5 @@
+FROM node:19.4
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+EXPOSE 8080
